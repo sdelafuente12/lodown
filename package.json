@@ -1,0 +1,22 @@
+{
+  "name": "lodown-sdelafuente",
+  "version": "1.0.3",
+  "description": "my own lodown library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdelafuente12/lodown.git"
+  },
+  "author": "Samantha De La Fuente",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdelafuente12/lodown/issues"
+  },
+  "homepage": "https://github.com/sdelafuente12/lodown#readme"
+}
